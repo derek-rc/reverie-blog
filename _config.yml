@@ -97,4 +97,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-reverie
+theme: jekyll-theme-cayman
