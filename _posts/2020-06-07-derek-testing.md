@@ -1,4 +1,5 @@
 ---
+categories: Test-Category
 published: false
 ---
 ## A New Post
