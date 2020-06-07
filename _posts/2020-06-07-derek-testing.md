@@ -1,5 +1,7 @@
 ---
-categories: Test-Category
+layout: post
+title:  suffering hell suckers
+categories: [shit,piss]
 published: false
 ---
 ## A New Post
