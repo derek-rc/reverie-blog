@@ -20,10 +20,8 @@ avatar: /images/audience.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: amit.d.merchant@gmail.com
-  github: amitmerchant1990/reverie
+  # email:
   rss: rss
-  twitter: amit_merchant
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
